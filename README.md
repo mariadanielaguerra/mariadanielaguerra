@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=header"/>
 
-<!--
-**mariadanielaguerra/mariadanielaguerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=708090&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!,+MY+NAME+IS+MARIA+DANIELA+;I'm+20+years+old;I'm+from+Brazil;I+study+Análise+e+desenvolvimento+de+sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariadanielaguerra&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=D8BFD8&text_color=708090&bg_color=LightGray" alt="Maria Daniela Guerra github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadanielaguerra&layout=compact&hide_border=true&title_color=D8BFD8&text_color=708090_color=708090" />
+</div>
+<div align="center">
+<a href="https://www.linkedin.com/in/mariadanielaguerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=D8BFD8" style="border-radius: 30px" target="_blank"></a> 
+
+
+    
+   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D8BFD8&height=120&section=footer"/>
